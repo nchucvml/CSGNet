@@ -29,7 +29,7 @@ evaluate the results
 
 ```eval
 > cd testing_scripts\python_metrics
-> python processFolder.py <dataset path> <thresholded frames path>
+> python processFolder.py <dataset_path> <thresholded_frames_path>
 ```
 
 ## Experimental Results
