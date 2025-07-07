@@ -2,6 +2,8 @@
 
 ## Cross-Scale Guidance Network for Few-Shot Moving Foreground Object Segmentation
 
+![Flowchart](png/CSGNet_Flowchart.png)
+
 ## Requirements
 
 ```setup
