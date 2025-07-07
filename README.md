@@ -16,14 +16,14 @@ python scripts/CSGNet_CDNet.py
 
 ## Testing
 
-extract foreground masks and threshold foreground masks
+extract and threshold foreground masks
 
 ```test
 python testing_scripts\extract_mask_CDNet.py
 python testing_scripts\thresholding.py
 ```
 
-evaluate results
+evaluate the results
 
 ```eval
 > cd testing_scripts\python_metrics
