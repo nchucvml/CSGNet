@@ -46,6 +46,6 @@ evaluate the results
 ## Reference
 Please cite the following paper when you apply the code.
 
-Y. -S. Liao, Y. -W. Lin, Y. -H. Chang and C. -R. Huang, "Cross-Scale Guidance Network for Few-Shot Moving Foreground Object Segmentation," in IEEE Transactions on Intelligent Transportation Systems, vol. 26, no. 6, pp. 7726-7739, June 2025, doi: 10.1109/TITS.2025.3559144.
+Y.-S. Liao, Y.-W. Lin, Y.-H. Chang and C.-R. Huang, "Cross-Scale Guidance Network for Few-Shot Moving Foreground Object Segmentation," IEEE Transactions on Intelligent Transportation Systems, vol. 26, no. 6, pp. 7726-7739, June 2025, doi: 10.1109/TITS.2025.3559144.
 
 https://ieeexplore.ieee.org/document/10972131
