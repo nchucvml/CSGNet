@@ -64,9 +64,6 @@ To evaluate the segmentation results:
 ### UCSD
 ![result_UCSD](png/Result_UCSD.png)
 
-### DAVIS2016
-![result_DAVIS](png/Result_DAVIS2016.png)
-
 ## Reference
 Please cite the following paper when you apply the code.
 
