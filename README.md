@@ -4,12 +4,6 @@
 
 ![Flowchart](png/CSGNet_Flowchart.png)
 
-## Requirements
-
-```setup
-pip install -r requirements.txt
-```
-
 ## Directory structure
 Please follow the steps below to properly set up the project directories:
 1. Download the [CDnet2014 dataset](http://jacarini.dinf.usherbrooke.ca/dataset2014) and the [UCSD dataset](http://www.svcl.ucsd.edu/projects/background_subtraction/ucsdbgsub_dataset.htm), and place them inside the `datasets` directory.
@@ -35,6 +29,12 @@ CSGNet/
     ├── thresholding.py
     ├── extract_mask_CDnet.py
     └── ...
+```
+
+## Requirements
+
+```setup
+pip install -r requirements.txt
 ```
 
 ## Training
