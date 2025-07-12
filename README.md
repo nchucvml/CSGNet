@@ -32,28 +32,25 @@ CSGNet/
 ```
 
 ## Requirements
-
+Install the required dependencies:
 ```setup
 pip install -r requirements.txt
 ```
 
 ## Training
-
+To train the proposed model on the CDnet2014 dataset:
 ```train
 python scripts/CSGNet_CDNet.py
 ```
 
 ## Testing
-
-extract and threshold foreground masks
-
+After training, run inference to generate prediction masks and convert prediction probabilities to binary masks:
 ```test
 python testing_scripts\extract_mask_CDNet.py
 python testing_scripts\thresholding.py
 ```
 
-evaluate the results
-
+To evaluate the segmentation results:
 ```eval
 > cd testing_scripts\python_metrics
 > python processFolder.py <dataset_path> <thresholded_frames_path>
